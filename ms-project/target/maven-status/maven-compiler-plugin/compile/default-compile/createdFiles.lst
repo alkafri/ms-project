@@ -1,0 +1,16 @@
+com\example\msproject\model\Vehicles.class
+com\example\msproject\controller\MembersController.class
+com\example\msproject\model\Groups.class
+com\example\msproject\repository\JpaGroupsRepository.class
+com\example\msproject\model\Members.class
+com\example\msproject\repository\JpaMembersRepository.class
+com\example\msproject\mapper\GroupsRowMapper.class
+com\example\msproject\service\MembersServices.class
+com\example\msproject\controller\VehiclesController.class
+com\example\msproject\MsProjectApplication.class
+com\example\msproject\controller\GroupController.class
+com\example\msproject\repository\JpaVehiclesRepository.class
+com\example\msproject\mapper\MembersRowMapper.class
+com\example\msproject\mapper\VehiclesRowMapper.class
+com\example\msproject\service\VehiclesServices.class
+com\example\msproject\service\GroupServices.class
